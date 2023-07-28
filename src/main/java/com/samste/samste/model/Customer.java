@@ -1,4 +1,4 @@
-package com.samste.samste;
+package com.samste.samste.model;
 
 import jakarta.persistence.*;
 
